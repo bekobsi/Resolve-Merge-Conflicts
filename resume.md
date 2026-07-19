@@ -21,5 +21,4 @@ Developed and maintained various conference talks, online training, and in-perso
 ### Leadership
 
 Managed multiple asynchronous teams in the development, maintenance, and release of various web applications and websites.
-- Built internal tools
-修正を加えました
+- Contributed to open source projects
